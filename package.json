@@ -1,0 +1,16 @@
+{
+  "name": "backend_gueno",
+  "version": "1.0.0",
+  "description": "Test empleo - Gueno",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Boris Lopez",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  }
+}
