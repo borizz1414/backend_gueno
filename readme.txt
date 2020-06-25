@@ -22,3 +22,5 @@ Proceso #2 //////////////////////////
 Proceso #3 /////////////////////////
 1) Mediante Postman realizar peticiones al backend creado anteriormente y confirmar su funcionalidad.
 2) Deploy del backend en Heroku, tambien en GitHub pero solo para revisión de codigo.
+
+URL DEL BACKEND: https://backend-gueno.herokuapp.com/api
